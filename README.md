@@ -5,7 +5,6 @@
 ![License MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![Databricks](https://img.shields.io/badge/platform-Databricks-red.svg)
 
-
 This repository demonstrates how to fine-tune Large Language Models (LLMs) on Databricks using the HuggingFace Transformers Trainer framework. The project aims to include examples of fine-tuning with QLoRA and LoRA techniques for efficient model optimization.
 
 > **Disclaimer:** The notebooks for fine-tuning with QLoRA and LoRA are not yet developed. This repository currently focuses on the setup, data preparation, and standard fine-tuning workflows.
